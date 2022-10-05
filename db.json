@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "name": "ahmed1",
+      "email": "ah1@g.com",
+      "pass": "askjfjs;ldfkj;j",
+      "id": 1
+    },
+    {
+      "name": "ahmed2",
+      "email": "ah2@g.com",
+      "pass": "askjfjs;ldfkj;j",
+      "id": 2
+    },
+    {
+      "name": "ahmeed3",
+      "email": "ah3@g.com",
+      "pass": "askjfjs;ldfkj;j",
+      "id": 3
+    },
+    {
+      "name": "smeth 123ds",
+      "email": "YO@1.AAw",
+      "pass": "aslkfjioefjasjieo12s",
+      "id": 4
+    },
+    {
+      "name": "12222222",
+      "email": "ah11222@g.com",
+      "pass": "askjfjs;ldfkj;j122",
+      "id": 5
+    },
+    {
+      "name": "122222222222",
+      "email": "ah11222@g.com",
+      "pass": "askjfjs;ldfkj;j122",
+      "id": 6
+    },
+    {
+      "name": "Abo ahmed 123",
+      "email": "ah1111@g.com",
+      "pass": "askjfjs;ldfkj;j",
+      "id": 7
+    },
+    {
+      "name": "youssef HR",
+      "email": "YO9@1.AAw",
+      "pass": "aslkfjioefjasjieo12s",
+      "id": 8
+    }
+  ],
+  "locations": [
+    {
+      "name": "1111111111111111111111",
+      "phone": "111111111111e",
+      "address": "eeeeeeeeeeeeee",
+      "userId": 5,
+      "id": 16
+    },
+    {
+      "name": "King burgersdf",
+      "phone": "554.222.5546",
+      "address": "istanbul, Turkey",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "name": "kkk fast food",
+      "phone": "556.879.445",
+      "address": "damas , Syria",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "name": "Big House ",
+      "phone": "0544879632",
+      "address": "Gebze , Turkey",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "name": "asdfasfasfdad",
+      "phone": "asdfasfddddddd",
+      "address": "adsffddsdfs",
+      "userId": 7,
+      "id": 20
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fried Chiken",
+      "userId": 1,
+      "locationId": 19,
+      "id": 2
+    },
+    {
+      "name": "Potatos",
+      "userId": 1,
+      "locationId": 19,
+      "id": 3
+    },
+    {
+      "name": "New Category -1",
+      "userId": 1,
+      "locationId": 18,
+      "id": 4
+    },
+    {
+      "name": "New-Item-0",
+      "userId": 1,
+      "locationId": 18,
+      "id": 5
+    },
+    {
+      "name": "facebook.com",
+      "userId": 1,
+      "locationId": 18,
+      "id": 6
+    }
+  ],
+  "items": []
+}
